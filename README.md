@@ -7,7 +7,7 @@ CS224N: Natural Language Processing with Deep Learning
 
 | No.  | Date           | Title                          | Notes                          |
 |------|----------------|--------------------------------|--------------------------------|
-| 1    | 03/11~03/17    | Lecture 1 & 2                                | [PDF1](#)  [PDF](#)         |
+| 1    | 03/11~03/17    | Lecture 1 & 2         | [PDF1](https://shorturl.at/ADy2y)  [PDF2](https://shorturl.at/Lgzi8)         |
 |      |                | Presentation in Regular Session            | [Slides](https://github.com/hak3601/NLP-CS224n/blob/2f994948fd3238100e6563e37990880841cc964d/pdf/ppt-slides.pdf)
 | 2    | 03/18~03/24    | Lecture 3 & 4                                               | Link           |
 |      |                | A Fast and Accurate Dependency Parser using Neural Networks | Link           |
