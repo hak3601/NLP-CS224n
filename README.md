@@ -10,7 +10,7 @@ CS224N: Natural Language Processing with Deep Learning
 | 1    | 03/11~03/17 | Lecture 1 & 2         | [L1](https://shorturl.at/ADy2y)  [L2](https://shorturl.at/Lgzi8)         |
 |      |             | Presentation in Regular Session            | [Slides](https://github.com/hak3601/NLP-CS224n/blob/main/pdf/ppt-slides.pdf)
 | 2    | 03/18~03/24 | Lecture 3 & 4                                               | [L3](https://github.com/hak3601/NLP-CS224n/blob/main/pdf/cs224n_lec3.pdf),[L4](https://github.com/hak3601/NLP-CS224n/blob/main/pdf/CS224n%20Lecure4.pdf)           |
-|      |  | [A Fast and Accurate Dependency Parser using Neural Networks](https://emnlp2014.org/papers/pdf/EMNLP2014082.pdf) | [slides](https://github.com/hak3601/NLP-CS224n/blob/main/pdf/A%20Fast%20and%20Accurate%20Dependency%20Parser%20using%20Neural%20Networks_presentation.pdf)           |
+|      |  | [A Fast and Accurate Dependency Parser using Neural Networks](https://emnlp2014.org/papers/pdf/EMNLP2014082.pdf) | [Slides](https://github.com/hak3601/NLP-CS224n/blob/main/pdf/A%20Fast%20and%20Accurate%20Dependency%20Parser%20using%20Neural%20Networks_presentation.pdf)           |
 | 3    | 03/25~03/31 | Lecture 5 & 6                                               | Link           |
 |      |             | Paper 2                                                     | Link           |
 | 4    | 04/01~04/07 | Lecture 7 & 8                                               | Link           |
