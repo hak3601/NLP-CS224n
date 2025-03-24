@@ -1,7 +1,8 @@
 # NLP Study (CUAI)
 CS224N: Natural Language Processing with Deep Learning
 
-YouTube Video Lectures ([Link](https://youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D&si=r8djSieatiCCatQV)) by Stanford (Spring 2024)
+- YouTube Video Lectures ([Link](https://youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D&si=r8djSieatiCCatQV)) by Stanford (Spring 2024)
+- Reading papers per week
 
 ## Our Activities
 
