@@ -12,15 +12,15 @@ YouTube Video Lectures ([Link](https://youtube.com/playlist?list=PLoROMvodv4rOaM
 |      |       | Presentation in Regular Session            | [Slides](https://shorturl.at/OwxX8)|
 | 2    | 03/24 | Lecture 3 - Backpropagation & Neural Network | [L3](https://shorturl.at/t2CWH) |
 |      |       | Lecture 4 - Dependency Parsing |[L4](https://shorturl.at/mC5qH) |
-|      |       | [A Fast and Accurate Dependency Parser using Neural Networks](https://emnlp2014.org/papers/pdf/EMNLP2014082.pdf) | [Slides](https://shorturl.at/xtpUV) |
+|      |       | [A Fast and Accurate Dependency Parser using Neural Networks](https://shorturl.at/h65Vi) | [Slides](https://shorturl.at/xtpUV) |
 | 3    | 03/31 | Lecture 5 - Recurrent Neural Network | Link |
 |      |       | Lecture 6 - Sequence to Sequence Models | Link |
 |      |       | Lecture 7 - Attention & LLM Intro | Link |
-|      |       | [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215) | Link |
+|      |       | [Sequence to Sequence Learning with Neural Networks](https://shorturl.at/84JB0) | Link |
 | 4    | 04/07 | Lecture 8 - Self-Attention & Transformers | Link |
 |      |       | Lecture 9 - Pretraining | Link |
-|      |       | [Attention Is All You Need](#) | Link |
-|      |       | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](#) | Link |
+|      |       | [Attention Is All You Need](https://shorturl.at/wyOFy) | Link |
+|      |       | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://rb.gy/k56507) | Link |
 | 5    | 04/08~04/28 | Mid-term Exam  |                |
 
 ---
