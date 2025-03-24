@@ -1,21 +1,27 @@
 # NLP Study (CUAI)
 CS224N: Natural Language Processing with Deep Learning
 
-[YouTube Video Lectures](https://youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D&si=r8djSieatiCCatQV) by Stanford (Spring 2024)
+YouTube Video Lectures ([Link](https://youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D&si=r8djSieatiCCatQV)) by Stanford (Spring 2024)
 
 ## Our Activities
 
-| No.  | Date           | Title                          | Notes                          |
+| No.  | Date        | Title                          | Notes                          |
 |------|-------------|--------------------------------|--------------------------------|
-| 1    | 03/11~03/17 | Lecture 1 & 2         | [L1](https://shorturl.at/ADy2y) , [L2](https://shorturl.at/Lgzi8)         |
-|      |             | Presentation in Regular Session            | [Slides](https://github.com/hak3601/NLP-CS224n/blob/main/pdf/ppt-slides.pdf)
-| 2    | 03/18~03/24 | Lecture 3 & 4                                               | [L3](https://github.com/hak3601/NLP-CS224n/blob/main/pdf/cs224n_lec3.pdf),[L4](https://github.com/hak3601/NLP-CS224n/blob/main/pdf/CS224n%20Lecure4.pdf)           |
-|      |  | [A Fast and Accurate Dependency Parser using Neural Networks](https://emnlp2014.org/papers/pdf/EMNLP2014082.pdf) | [Slides](https://github.com/hak3601/NLP-CS224n/blob/main/pdf/A%20Fast%20and%20Accurate%20Dependency%20Parser%20using%20Neural%20Networks_presentation.pdf)           |
-| 3    | 03/25~03/31 | Lecture 5 & 6                                               | Link           |
-|      |             | Paper 2                                                     | Link           |
-| 4    | 04/01~04/07 | Lecture 7 & 8                                               | Link           |
-|      |             | Paper 3                                                     | Link           |
-| 5    | 04/08~04/28 | Mid-term Exam                                               |                |
+| 1    | 03/17 | Lecture 1 - Intro and Word Vectors         | [L1](https://shorturl.at/ADy2y) |
+|      |       | Lecture 2 - Word Vectors and Language Model| [L2](https://shorturl.at/Lgzi8) |
+|      |       | Presentation in Regular Session            | [Slides](https://shorturl.at/OwxX8)|
+| 2    | 03/24 | Lecture 3 - Backpropagation & Neural Network | [L3](#) |
+|      |       | Lecture 4 - Dependency Parsing |[L4](#) |
+|      |       | [A Fast and Accurate Dependency Parser using Neural Networks](https://emnlp2014.org/papers/pdf/EMNLP2014082.pdf) | [Slides](#) |
+| 3    | 03/31 | Lecture 5 - Recurrent Neural Network | Link |
+|      |       | Lecture 6 - Sequence to Sequence Models | Link |
+|      |       | Lecture 7 - Attention & LLM Intro | Link |
+|      |       | [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215) | Link |
+| 4    | 04/07 | Lecture 8 - Self-Attention & Transformers | Link |
+|      |       | Lecture 9 - Pretraining | Link |
+|      |       | [Attention Is All You Need](#) | Link |
+|      |       | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](#) | Link |
+| 5    | 04/08~04/28 | Mid-term Exam  |                |
 
 ---
 ### Study Members
