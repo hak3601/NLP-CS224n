@@ -10,9 +10,9 @@ YouTube Video Lectures ([Link](https://youtube.com/playlist?list=PLoROMvodv4rOaM
 | 1    | 03/17 | Lecture 1 - Intro and Word Vectors         | [L1](https://shorturl.at/ADy2y) |
 |      |       | Lecture 2 - Word Vectors and Language Model| [L2](https://shorturl.at/Lgzi8) |
 |      |       | Presentation in Regular Session            | [Slides](https://shorturl.at/OwxX8)|
-| 2    | 03/24 | Lecture 3 - Backpropagation & Neural Network | [L3](#) |
-|      |       | Lecture 4 - Dependency Parsing |[L4](#) |
-|      |       | [A Fast and Accurate Dependency Parser using Neural Networks](https://emnlp2014.org/papers/pdf/EMNLP2014082.pdf) | [Slides](#) |
+| 2    | 03/24 | Lecture 3 - Backpropagation & Neural Network | [L3](https://shorturl.at/t2CWH) |
+|      |       | Lecture 4 - Dependency Parsing |[L4](https://shorturl.at/mC5qH) |
+|      |       | [A Fast and Accurate Dependency Parser using Neural Networks](https://emnlp2014.org/papers/pdf/EMNLP2014082.pdf) | [Slides](https://shorturl.at/xtpUV) |
 | 3    | 03/31 | Lecture 5 - Recurrent Neural Network | Link |
 |      |       | Lecture 6 - Sequence to Sequence Models | Link |
 |      |       | Lecture 7 - Attention & LLM Intro | Link |
