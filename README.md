@@ -22,12 +22,16 @@ YouTube Video Lectures ([Link](https://youtube.com/playlist?list=PLoROMvodv4rOaM
 |      |       | [Attention Is All You Need](https://shorturl.at/wyOFy) | Link |
 |      |       | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://rb.gy/k56507) | Link |
 | 5    | 04/08~04/28 | Mid-term Exam  |                |
+| 6    | 05/05 | Week-5  | |
+| 7    | 05/12 | Week-6  | |
+| 8    | 05/19 | Week-7  | |
+| 9    | 05/26 | Week-8  | |
 
 ---
 ### Study Members
-- 민세희	(AI학과)	
-- 민유안	(소프트웨어학부)	
-- 정인혁	(소프트웨어학부)
-- 김지호	(미디어커뮤니케이션학부)	
-- 태아카	(소프트웨어학부)
-- 양희원	(AI학과)	
+1. 민세희	(AI학과)	
+2. 민유안	(소프트웨어학부)	
+3. 정인혁	(소프트웨어학부)
+4. 김지호	(미디어커뮤니케이션학부)	
+5. 태아카	(소프트웨어학부)
+6. 양희원	(AI학과)	
