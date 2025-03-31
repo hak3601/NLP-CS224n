@@ -14,7 +14,7 @@ CS224N: Natural Language Processing with Deep Learning
 | 2    | 03/24 | Lecture 3 - Backpropagation & Neural Network | [L3](https://shorturl.at/t2CWH) |
 |      |       | Lecture 4 - Dependency Parsing |[L4](https://shorturl.at/mC5qH) |
 |      |       | [A Fast and Accurate Dependency Parser using Neural Networks](https://shorturl.at/h65Vi) | [Slides](https://shorturl.at/xtpUV) |
-| 3    | 03/31 | Lecture 5 - Recurrent Neural Network | Link |
+| 3    | 03/31 | Lecture 5 - Recurrent Neural Network | [L5](https://shorturl.at/6jVBc) |
 |      |       | Lecture 6 - Sequence to Sequence Models | [L6&L7](https://shorturl.at/Yt8hP) |
 |      |       | Lecture 7 - Attention & LLM Intro |  |
 |      |       | [Sequence to Sequence Learning with Neural Networks](https://shorturl.at/84JB0) | Link |
