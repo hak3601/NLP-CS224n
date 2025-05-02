@@ -21,7 +21,7 @@ CS224N: Natural Language Processing with Deep Learning
 | 4    | ~04/28 | Mid-term Exam  |                |
 | 5    | 05/02 | Lecture 8 - Self-Attention & Transformers | Link |
 |      |       | Lecture 9 - Pretraining | Link |
-|      |       | [Attention Is All You Need](https://shorturl.at/wyOFy) | Link |
+|      |       | [Attention Is All You Need](https://shorturl.at/wyOFy) | [PPT](https://shorturl.at/FQwmK) |
 |      |       | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://rb.gy/k56507) | Link |
 | 6    | 05/12 | Week-5  | |
 | 7    | 05/19 | Week-6  | |
