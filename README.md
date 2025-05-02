@@ -23,10 +23,11 @@ CS224N: Natural Language Processing with Deep Learning
 |      |       | Lecture 9 - Pretraining | Link |
 |      |       | [Attention Is All You Need](https://shorturl.at/wyOFy) | [PPT](https://shorturl.at/FQwmK) |
 |      |       | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://rb.gy/k56507) | Link |
-| 6    | 05/12 | HEGEL: Hypergraph Transformer for Long Document Summarization  | 정인혁 |
-|      |       | BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension | 김지호 |
-| 7    | 05/19 | Week-6  | |
-| 8    | 05/26 | Week-7  | |
+| 6    | 05/12 | [HEGEL: Hypergraph Transformer for Long Document Summarization](https://aclanthology.org/2022.emnlp-main.692.pdf)  | 정인혁 |
+|      |       | [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/pdf/1910.13461) | 김지호 |
+| 7    | 05/19 | 양희원  | |
+| 7    |       | 태아카  | |
+| 8    | 05/26 | 민유안  | |
 
 ---
 ### Study Members
