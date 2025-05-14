@@ -18,13 +18,14 @@ CS224N: Natural Language Processing with Deep Learning
 |      |       | Lecture 6 - Sequence to Sequence Models | [L6&L7](https://shorturl.at/Yt8hP) |
 |      |       | Lecture 7 - Attention & LLM Intro |  |
 |      |       | [Sequence to Sequence Learning with Neural Networks](https://shorturl.at/84JB0) | [PPT](https://shorturl.at/nd9y5) |
+|      |       | Presentation-2 in Regular Session            | [Slides](https://shorturl.at/AcK6c)|
 | 4    | ~04/28 | Mid-term Exam  |                |
 | 5    | 05/02 | Lecture 8 - Self-Attention & Transformers | Link |
 |      |       | Lecture 9 - Pretraining | Link |
 |      |       | [Attention Is All You Need](https://shorturl.at/wyOFy) | [PPT](https://shorturl.at/FQwmK) |
 |      |       | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://rb.gy/k56507) | Link |
 | 6    | 05/12 | [HEGEL: Hypergraph Transformer for Long Document Summarization](https://aclanthology.org/2022.emnlp-main.692.pdf)  | [PPT](https://shorturl.at/pT1ne)|
-|      |       | [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/pdf/1910.13461) | 김지호 |
+|      |       | [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/pdf/1910.13461) | [PPT](https://shorturl.at/Xr6dm) |
 | 7    | 05/19 | [Mix-LN: Unleashing the Power of Deeper Layers by Combining Pre-LN and Post-LN](https://arxiv.org/pdf/2412.13795) | 양희원 |
 |      |       | [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://shorturl.at/FikHb)  | 태아카 |
 | 8    | 05/26 | -  | 민유안 |
