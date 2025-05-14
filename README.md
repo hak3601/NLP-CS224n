@@ -16,14 +16,14 @@ CS224N: Natural Language Processing with Deep Learning
 |      |       | [A Fast and Accurate Dependency Parser using Neural Networks](https://shorturl.at/h65Vi) | [PPT](https://shorturl.at/xtpUV) |
 | 3    | 03/31 | Lecture 5 - Recurrent Neural Network | [L5](https://shorturl.at/6jVBc) |
 |      |       | Lecture 6 - Sequence to Sequence Models | [L6&L7](https://shorturl.at/Yt8hP) |
-|      |       | Lecture 7 - Attention & LLM Intro |  |
+|      |       | Lecture 7 - Attention & LLM Intro | - |
 |      |       | [Sequence to Sequence Learning with Neural Networks](https://shorturl.at/84JB0) | [PPT](https://shorturl.at/nd9y5) |
 |      |       | Presentation-2 in Regular Session            | [Slides](https://shorturl.at/AcK6c)|
 | 4    | ~04/28 | Mid-term Exam  |                |
-| 5    | 05/02 | Lecture 8 - Self-Attention & Transformers | Link |
-|      |       | Lecture 9 - Pretraining | Link |
+| 5    | 05/02 | Lecture 8 - Self-Attention & Transformers | - |
+|      |       | Lecture 9 - Pretraining | - |
 |      |       | [Attention Is All You Need](https://shorturl.at/wyOFy) | [PPT](https://shorturl.at/FQwmK) |
-|      |       | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://rb.gy/k56507) | Link |
+|      |       | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://rb.gy/k56507) | - |
 | 6    | 05/12 | [HEGEL: Hypergraph Transformer for Long Document Summarization](https://aclanthology.org/2022.emnlp-main.692.pdf)  | [PPT](https://shorturl.at/pT1ne)|
 |      |       | [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/pdf/1910.13461) | [PPT](https://shorturl.at/Xr6dm) |
 |      | 05/13 | Presentation-3 in Regular Session            | [Slides](https://shorturl.at/GA8x0)|
