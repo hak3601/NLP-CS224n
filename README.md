@@ -10,7 +10,7 @@ CS224N: Natural Language Processing with Deep Learning
 |------|-------------|--------------------------------|--------------------------------|
 | 1    | 03/17 | Lecture 1 - Intro and Word Vectors         | [L1](https://shorturl.at/ADy2y) |
 |      |       | Lecture 2 - Word Vectors and Language Model| [L2](https://shorturl.at/Lgzi8) |
-|      |       | Presentation in Regular Session            | [Slides](https://shorturl.at/OwxX8)|
+|      |       | Presentation-1 in Regular Session            | [Slides](https://shorturl.at/OwxX8)|
 | 2    | 03/24 | Lecture 3 - Backpropagation & Neural Network | [L3](https://shorturl.at/t2CWH) |
 |      |       | Lecture 4 - Dependency Parsing |[L4](https://shorturl.at/mC5qH) |
 |      |       | [A Fast and Accurate Dependency Parser using Neural Networks](https://shorturl.at/h65Vi) | [PPT](https://shorturl.at/xtpUV) |
