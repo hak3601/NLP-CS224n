@@ -27,9 +27,9 @@ CS224N: Natural Language Processing with Deep Learning
 |      |       | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://rb.gy/k56507) | - |
 | 6    | 05/12 | [HEGEL: Hypergraph Transformer for Long Document Summarization](https://aclanthology.org/2022.emnlp-main.692.pdf)  | [PPT](https://shorturl.at/pT1ne)|
 |      |       | [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/pdf/1910.13461) | [PPT](https://shorturl.at/Xr6dm) |
-|      | 05/13 | Presentation-3 in Regular Session            | [Slides](https://shorturl.at/GA8x0)|
+|      | 05/13 | Presentation-3 in Regular Session            | [PPT](https://shorturl.at/GA8x0)|
 | 7    | 05/19 | [Mix-LN: Unleashing the Power of Deeper Layers by Combining Pre-LN and Post-LN](https://arxiv.org/pdf/2412.13795) | 양희원 |
-|      |       | [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://shorturl.at/FikHb)  | 태아카 |
+|      |       | [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://shorturl.at/FikHb)  | [PPT](https://shorturl.at/MsGdc) |
 | 8    | 05/26 | -  | 민유안 |
 
 ---
