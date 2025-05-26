@@ -30,7 +30,7 @@ CS224N: Natural Language Processing with Deep Learning
 |      | 05/13 | Presentation-3 in Regular Session            | [PPT](https://shorturl.at/GA8x0)|
 | 7    | 05/19 | [Mix-LN: Unleashing the Power of Deeper Layers by Combining Pre-LN and Post-LN](https://arxiv.org/pdf/2412.13795) | [PPT](https://github.com/hak3601/NLP-CS224n/blob/main/pdf/Mix-LN.pdf) |
 |      |       | [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://shorturl.at/FikHb)  | [PPT](https://shorturl.at/MsGdc) |
-| 8    | 05/26 | [What do Position Embeddings Learn?](https://github.com/hak3601/NLP-CS224n/blob/main/pdf/PositionEmbeddingsLearn.pdf)  | [PPT](#) |
+| 8    | 05/26 | [What do Position Embeddings Learn?](https://github.com/hak3601/NLP-CS224n/blob/main/pdf/PositionEmbeddingsLearn.pdf)  | [PPT](https://github.com/hak3601/NLP-CS224n/blob/main/pdf/PositionEmbeddingsLearnz-pdf.pdf) |
 
 ---
 ### Study Members
